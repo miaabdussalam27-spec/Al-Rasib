@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/e72e0b93-9e8f-4e4f-863c-c87e3
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+Name of the game Rasib cer rece
